@@ -1,0 +1,34 @@
+{
+  "id": "f7114ca6-020b-4e67-afb1-bb2e0d3d0782",
+  "name": "TestPerTenantExtension",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "hello app",
+  "description": "hello app",
+  "privacyStatement": "https://justjewelrysoftware.com",
+  "EULA": "https://justjewelrysoftware.com",
+  "help": "https://justjewelrysoftware.com",
+  "url": "https://justjewelrysoftware.com",
+  "logo": "Resources/App.png",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "21.0.0.0",
+  "idRanges": [
+    {
+      "from": 37077600,
+      "to": 37077649
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "10.0",
+  "features": [
+    "NoImplicitWith",
+    "TranslationFile"
+  ],
+  "contextSensitiveHelpUrl" : "https://adaptivenav.com"
+}
